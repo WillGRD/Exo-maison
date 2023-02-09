@@ -1,0 +1,58 @@
+body {
+    background-color: black;
+}
+
+h1,
+h2 {
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+h1 {
+    font-size: 45px;
+    color: pink;
+}
+
+h2 {
+    font-size: 32px;
+    color: aqua;
+}
+
+p {
+    color: white;
+}
+
+a[href="#"] {
+    color: yellow;
+}
+
+a[href^="https://"] {
+    color: purple;
+}
+
+img {
+    width: 350px;
+    height: 150;
+}
+
+a {
+    text-decoration: none;
+}
+
+p:hover{
+    color: red;
+}
+
+h1:hover,
+h2:hover {
+    color: red;
+}
+
+h1:hover,
+h2:hover{
+    text-decoration: none;
+}
+
+section:first-of-type h2:first-of-type:hover{
+    color: peru;
+}

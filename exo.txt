@@ -1,0 +1,7 @@
+Repprendre le fichier html que vous avez fait via CSS (dans un nouveau fichier css):
+
+-Appliquer la couleur rouge au premier h2 du document (en exploitant un identifiant)
+-Appluquer la couleur vleur en tant qu'arriére plan de toutes les sections du document
+-Au survol du titre pincipal, afficher celui ci en marron
+-Retirer le soulignement des liens externes
+-Appliquer la couleur violet aux paragraphes pairs (en utilisant une classe)
